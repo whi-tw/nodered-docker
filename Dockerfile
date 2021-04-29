@@ -6,4 +6,4 @@ RUN npm install node-red-contrib-actionflows \
     node-red-contrib-time-range-switch \
     node-red-contrib-suncron \
     node-red-contrib-weekday\
-    node-red-contrib-selenium-webdriver
+    node-red-contrib-selenium-wd2
